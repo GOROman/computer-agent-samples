@@ -1,4 +1,4 @@
-# Computer-Using Agent サンプル
+# Computer-Using Agent サンプル（動かないフェイク）
 【CUA】 - Computer-Using Agent - OpenAIのコンピュータ操作エージェントを触ってみた！人間不要時代の到来か！？
 
 ## 概要
